@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.hero {
+    background-color: #2C3E50;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    background-color: #2C3E50;
+}
+
+footer p {
+    margin: 0;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+}
